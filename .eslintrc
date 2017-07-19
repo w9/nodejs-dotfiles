@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "no-console": "off",
+    "jsx-a11y/label-has-for": "off",
+    "max-len": "off",
+    "react/no-multi-comp": "off",
+    "prefer-template": "off"
+  }
+}
